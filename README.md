@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mehdi Shokrani
+# Hi there! 👋 I'm Manminder :(
 
 ![Cover Image](cover.png)
 
